@@ -21,8 +21,7 @@ class App extends Component {
           Teerawut Sararam
         </div>
           
-          <WordCard value="James" />
-          <WordCard value="5935512098" />
+          <WordCard value="Hello" />
           
         </div>
       </div>
